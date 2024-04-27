@@ -16,5 +16,8 @@ images: # relative to /src/assets/images/
 tags:
   - logo
 ---
+Double Cherry Games ist ein lebhaftes und kreatives Studio, das für hochwertige und unterhaltsame Spiele bekannt ist. Der Name weist auf eine doppelte Portion Spaß und Innovation hin, auf Spiele, die für Multiplayer-Erfahrungen oder kooperative Gameplay-Elemente bekannt sind. Es könnte auch eine fruchtige und einladende Atmosphäre suggerieren, ähnlich wie bei einem Kirschbaum in voller Blüte.
 
-This is the first blog for Double Cherry Games, a fine new game studio.
+******
+
+{% svg "logo", "mt-1 mr-2 h-10 w-1000 text-black-500 float-left" %}
