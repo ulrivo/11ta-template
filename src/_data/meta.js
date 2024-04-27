@@ -3,7 +3,7 @@ module.exports = {
 	siteName: "Double Cherry Games",
 	siteDescription:
 		'A fine game studio',
-	siteImage: '/assets/images/site/double_cherry-hero.png',
+	siteImage: '/assets/images/home/double_cherry-hero.png',
 	lang: 'en',
 	locale: 'en_us',
 	authorName: 'Ulrich Vollert',
